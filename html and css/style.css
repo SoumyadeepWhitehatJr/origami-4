@@ -1,0 +1,86 @@
+.imgd{
+
+position:relative
+
+}
+.imgdf{
+
+position: absolute;
+top: 50%;
+left: 50%;
+
+}
+a{
+
+text-decoration: none;
+
+}
+a:link{
+color:orange
+
+}
+a:visited{
+
+color:greenyellow
+
+}
+
+h1{
+    color:brown
+}
+*{
+    border:solid
+}
+.header{
+
+background-color:aqua;
+display:flex;
+justify-content:left;
+}
+.menu{
+background-color: coral;
+display:flex;
+justify-content:space-between;
+
+}
+.grid{
+
+display:flex;
+flex-wrap:wrap;
+justify-content:space-evenly
+}
+
+.footer{
+
+
+display:flex;
+
+justify-content: space-evenly;
+
+
+
+}
+.group{
+display:flex;
+
+
+}
+.img:hover{
+
+transform: scale(1.2);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
